@@ -70,7 +70,7 @@ h1{
 	text-align: center;
 }
 
-#sp{
+.sp{
 	width: 45%;
 }
 
@@ -79,7 +79,8 @@ h1{
 		width:90%;
 	}
 
-	#sp{
-		width: 45%;
+	.sp{
+		width: 95%;
 	}
 }
+
